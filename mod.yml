@@ -1,6 +1,6 @@
 title: TallKairi
 originalAuthor: Shananas
-description:
+game: kh2
 assets:
  - name: obj/M_EX930.mdlx
    method: copy
